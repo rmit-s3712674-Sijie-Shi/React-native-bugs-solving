@@ -18,6 +18,7 @@ So, the solution is:
   expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
   
   Second intall react-native-router-flux
+  
   yarn add react-native-router-flux
   
   If still doesn't work, try to go through the tutorial: https://reactnavigation.org/docs/getting-started/
