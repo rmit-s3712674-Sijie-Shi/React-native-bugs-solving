@@ -11,13 +11,13 @@ https://github.com/aksonov/react-native-router-flux
 
 So, the solution is:
   
-  1. install react-navigation first:
+  First install react-navigation:
 
   npm install @react-navigation/native
   
   expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
   
-  2. intall react-native-router-flux
+  Second intall react-native-router-flux
   yarn add react-native-router-flux
   
   If still doesn't work, try to go through the tutorial: https://reactnavigation.org/docs/getting-started/
