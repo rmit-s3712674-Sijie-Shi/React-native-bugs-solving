@@ -32,3 +32,7 @@ After I copy the image files to the project, it showed this bug.
 
 Solution: Restart the CMD or other console and restart the APP project
 
+3. 400 error request when using axios
+
+4. SercureStorage, set and get
+//Async method
