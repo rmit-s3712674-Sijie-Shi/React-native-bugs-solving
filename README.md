@@ -33,6 +33,14 @@ After I copy the image files to the project, it showed this bug.
 Solution: Restart the CMD or other console and restart the APP project
 
 3. 400 error request when using axios
+headers problems
+need both:
+'Content-Type': 'application/json',
+'Accept' : 'application/json';
+stringify is needed:
+qs node package with qs.stringify
 
 4. SercureStorage, set and get
 //Async method
+5. await lead to bugs
+put await in a for loop lead to a bug that can't execute that await part
